@@ -1,6 +1,4 @@
-﻿
-using System;
-using LAB07;
+﻿using LAB07;
 
 Fille f1 = new TextFile(
     "Report.txt", 350, ".txt",
